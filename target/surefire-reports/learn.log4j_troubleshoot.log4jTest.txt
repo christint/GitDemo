@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: learn.log4j_troubleshoot.log4jTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.14 s - in learn.log4j_troubleshoot.log4jTest
