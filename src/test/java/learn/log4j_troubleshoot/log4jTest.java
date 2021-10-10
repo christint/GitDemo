@@ -10,5 +10,7 @@ public class log4jTest {
 	public void TC1() {
 		log.info("this is a test for log4j");
 		System.out.println("test");
+		System.out.println("test2");
+		System.out.println("test3");
 	}
 }
