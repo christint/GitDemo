@@ -19,5 +19,7 @@ public class log4jTest {
 		System.out.println("test3_develop");
 		
 		System.out.println("test3_develop2nd");
+		System.out.println("test3_developDemo");
+		
 	}
 }
